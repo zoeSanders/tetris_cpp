@@ -3,7 +3,7 @@
 
   This is a simplified version of Tetris for COM S 327 assignment 1.10
   
-##### Controls #####
+### Controls ###
 -----------------------------------------------------------------
 
  Rotate Tetromino (Counter-clockwise) .....  [ s-key ]
@@ -18,13 +18,13 @@
 
 -----------------------------------------------------------------
 
-#### Compilation ####
+### Compilation ###
 
  1) In terminal, navigate to game directory.
  2) Make
  3) ./main
  
-#### Dependencies ####
+### Dependencies ###
 
   * main.cpp
    
