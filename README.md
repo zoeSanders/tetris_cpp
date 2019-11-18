@@ -28,29 +28,19 @@
 
   * main.cpp
    
-      stdlib.h  
-      stdio.h
-      iostream
-      *ncurses.h
-      *time.h
-      *unistd.h
-      *string.h
-      *"tetromino.h"
+      stdlib.h, stdio.h, iostream.h, ncurses.h, time.h, unistd.h, string.h, "tetromino.h"
     
    * grid.cpp
    
-      *"grid.h"
-      *ncurses.h
-      *unistd.h
+      "grid.h", ncurses.h, unistd.h
     
    * tetromino.cpp
     
-      *"tetromino.h"
-      *time.h
-      *ncurses.h
+      "tetromino.h", time.h, ncurses.h
       
    * tetromino.h
-      *"grid.h"
+   
+      "grid.h"
     
     
    
