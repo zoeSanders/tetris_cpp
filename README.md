@@ -28,9 +28,9 @@
 
   * main.cpp
    
-      *stdlib.h
-      *stdio.h
-      *iostream
+      stdlib.h  
+      stdio.h
+      iostream
       *ncurses.h
       *time.h
       *unistd.h
