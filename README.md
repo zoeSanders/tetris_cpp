@@ -1,5 +1,5 @@
 
-# TETRIS (By Zoe) #
+## TETRIS (By Zoe) ##
 
   This is a simplified version of Tetris for COM S 327 assignment 1.10
   
@@ -28,29 +28,29 @@
 
   * main.cpp
    
-      stdlib.h
-      stdio.h
-      iostream
-      ncurses.h
-      time.h
-      unistd.h
-      string.h
-      "tetromino.h"
+      *stdlib.h
+      *stdio.h
+      *iostream
+      *ncurses.h
+      *time.h
+      *unistd.h
+      *string.h
+      *"tetromino.h"
     
    * grid.cpp
    
-      "grid.h"
-      ncurses.h
-      unistd.h
+      *"grid.h"
+      *ncurses.h
+      *unistd.h
     
    * tetromino.cpp
     
-      "tetromino.h"
-      time.h
-      ncurses.h
+      *"tetromino.h"
+      *time.h
+      *ncurses.h
       
    * tetromino.h
-      "grid.h"
+      *"grid.h"
     
     
    
