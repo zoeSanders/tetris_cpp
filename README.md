@@ -1,5 +1,5 @@
 
-############ TETRIS (By Zoe) #############
+# TETRIS (By Zoe) #
 
   This is a simplified version of Tetris for COM S 327 assignment 1.10
   
@@ -26,7 +26,7 @@
  
 #### Dependencies ####
 
-  #main.cpp#
+  * main.cpp
    
       stdlib.h
       stdio.h
@@ -37,21 +37,20 @@
       string.h
       "tetromino.h"
     
-   #grid.cpp#
+   * grid.cpp
    
       "grid.h"
       ncurses.h
       unistd.h
     
-    #tetromino.cpp#
+   * tetromino.cpp
     
       "tetromino.h"
       time.h
       ncurses.h
       
-    #tetromino.h#
-      
-	"grid.h"
+   * tetromino.h
+      "grid.h"
     
     
    
