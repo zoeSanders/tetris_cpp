@@ -1,0 +1,14 @@
+================= CHANGELOG FOR TETRIS =================
+11/23/2018: Started building tetris game. Created array of different blocks
+	    and their rotations.
+11/26/2018: Created offset array for initial block position.
+	    - Started implementing colors.
+	    - Implemented block generation.
+11/27/2018: Started on new, more object-oriented approach.
+	    - Implemented grid
+	    - Implemented parts of tetromino class such as the blocks, their rotations
+	      and their colors.
+11/28/2018: Implemented falling, checking for bottom of bin, and rotation/moving ability.
+11/29/2018: Fixed block overlap problems, implemented clearing blocks and making blocks fall.
+11/30/2018: Implemented shadowing so user can better see where tetrominos will be placed.
+12/02/2018: Finished up game functions, added menu.
